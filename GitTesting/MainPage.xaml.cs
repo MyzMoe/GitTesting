@@ -25,6 +25,7 @@ namespace GitTesting
         public MainPage()
         {
             this.InitializeComponent();
+
         }
     }
 }
